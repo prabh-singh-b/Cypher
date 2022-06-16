@@ -1,0 +1,2 @@
+E:\Projects\Cypher\Debug\Cypher.exe
+E:\Projects\Cypher\Debug\Cypher.pdb

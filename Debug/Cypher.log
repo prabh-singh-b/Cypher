@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\Projects\Cypher\Source.cpp(160): warning C4715: 'getChar': not all control paths return a value
+  Cypher.vcxproj -> E:\Projects\Cypher\Debug\Cypher.exe
